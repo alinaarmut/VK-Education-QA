@@ -1,7 +1,10 @@
+package homework_1;
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import static org.example.Main.sum;
+import static homework_1.Main.sum;
+
 
 public class SumTest {
 
